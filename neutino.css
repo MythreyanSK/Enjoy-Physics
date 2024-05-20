@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://t4.ftcdn.net/jpg/05/26/31/53/360_F_526315387_u662DtgmM2PGebsLYzMJQhllXiGeRB3v.jpg'); /* Your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.video-container {
+    margin-bottom: 20px;
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.8); /* Background color with transparency */
+    padding: 20px;
+    border-radius: 10px;
+}
